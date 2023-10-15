@@ -29,9 +29,9 @@ Project: Heat Transfer in Micro-fluidic Junctions [link](https://thesis.iut.ac.i
 
 Honors & awards
 ======
-* Bronze Medal in 21st National Chemical Engineering Olympiad, Iran.Bronze Medal in 21st National Chemical Engineering Olympiad, Iran. Jul 2016
-* Ranked 2nd in Iran’s National University Entrance Exam (Concours) of M.Sc in Processing and Transportation of Natural GasRanked 2nd in Iran’s National University Entrance Exam (Concours) of M.Sc in Processing and Transportation of Natural Gas. May 2016
-* Ranked 3rd in Iran’s National University Entrance Exam (Concours) of M.Sc in Chemical EngineeringRanked 3rd in Iran’s National University Entrance Exam (Concours) of M.Sc in Chemical Engineering. May 2016
+* Bronze Medal in 21st National Chemical Engineering Olympiad, Jul 2016.
+* Ranked 2nd in Iran’s National University Entrance Exam (Concours) of M.Sc in Processing and Transportation of Natural Gas, May 2016.
+* Ranked 3rd in Iran’s National University Entrance Exam (Concours) of M.Sc in Chemical Engineering, May 2016.
 
 <!-- Publications
 ======
