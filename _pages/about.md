@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 About me: <br /> 
-As a PhD candidate in the Pattern Recognition & Bioinformatics group, I am interested in Physics-Informed
-Machine Learning. An interdisciplinary research field where the aim is to embed Physical Constraints or
-Governing Dynamics of systems into Machine Learning techniques.
-I earned my M.Sc in Chemical Engineering in Sep 2018 from Sharif University of Technology (Tehran, Iran).
+PhD candidate in the Pattern Recognition Lab at TUDelft. <br /> 
+Interested in scientific machine learning, dynamical systems, and numerical analysis.<br /> 
+I earned my M.Sc degree in chemical engineering in Sep 2018 from Sharif University of Technology (Tehran, Iran).
+
 
 <div dir="rtl">
 درباره من
  <br /> 
-به عنوان دانشجوی مقطع دکتری در گروه تحقیقاتی تشخیص الگو و بیواینفورماتیک دانشگاه صنعتی دلفت، علاقه مند به تحقیق در زمینه یادگیری ماشین مبتنی بر فیزیک هستم. در این زمینه تحقیقاتی هدف اعمال محدودیت های فیزیکی و یا قوانین حاکمه سیستم ها بر الگوریتم های یادگیری ماشین است. 
+دانشجوی دکتری در گروه تحقیقاتی تشخیص الگو دانشگاه صنعتی دلفت. <br />
+علاقه مند هستم به زمینه های علمی یادگیری ماشین، سامانه های پویا و تحلیل های عددی. <br />
+مدرک کارشناسی ارشد خود در رشته مهندسی شیمی (طراحی فرایند) را از دانشگاه صنعتی شریف در شهریور ماه ۱۳۹۷ کسب کردم.
+ 
