@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mahdi Naderi</title>
-    <link>https://mahdinaderi.com/</link>
+    <link>//https://mnaderibeni.github.io/</link>
     <description>Recent content on Mahdi Naderi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mahdinaderi.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="//https://mnaderibeni.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From data to functa: Your data point is a function and you can treat it like one</title>
-      <link>https://mahdinaderi.com/talks/2023_11_30-talk-7/</link>
+      <link>//https://mnaderibeni.github.io/talks/2023_11_30-talk-7/</link>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/talks/2023_11_30-talk-7/</guid>
+      <guid>//https://mnaderibeni.github.io/talks/2023_11_30-talk-7/</guid>
       
         <description>Presentation file paper link</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Integral Neural Networks</title>
-      <link>https://mahdinaderi.com/talks/2023_10_24-talk-6/</link>
+      <link>//https://mnaderibeni.github.io/talks/2023_10_24-talk-6/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/talks/2023_10_24-talk-6/</guid>
+      <guid>//https://mnaderibeni.github.io/talks/2023_10_24-talk-6/</guid>
       
         <description>Presentation file paper link</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>For Children of Palestine</title>
-      <link>https://mahdinaderi.com/post/2023-10-19-blog/</link>
+      <link>//https://mnaderibeni.github.io/post/2023-10-19-blog/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/post/2023-10-19-blog/</guid>
+      <guid>//https://mnaderibeni.github.io/post/2023-10-19-blog/</guid>
       
         <description>Human beings are members of a whole,
 In creation of one essence and soul.</description>
@@ -43,10 +43,10 @@ In creation of one essence and soul.</description>
     
     <item>
       <title>Score-Based Generative Modeling through Stochastic Differential Equations</title>
-      <link>https://mahdinaderi.com/talks/2023_06_28-talk-5/</link>
+      <link>//https://mnaderibeni.github.io/talks/2023_06_28-talk-5/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/talks/2023_06_28-talk-5/</guid>
+      <guid>//https://mnaderibeni.github.io/talks/2023_06_28-talk-5/</guid>
       
         <description>Presentation file paper link</description>
       
@@ -54,10 +54,10 @@ In creation of one essence and soul.</description>
     
     <item>
       <title>Condensing CNNs with Partial Differential Equations</title>
-      <link>https://mahdinaderi.com/talks/2023_05_09-talk-4/</link>
+      <link>//https://mnaderibeni.github.io/talks/2023_05_09-talk-4/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/talks/2023_05_09-talk-4/</guid>
+      <guid>//https://mnaderibeni.github.io/talks/2023_05_09-talk-4/</guid>
       
         <description>Presentation file paper link</description>
       
@@ -65,10 +65,10 @@ In creation of one essence and soul.</description>
     
     <item>
       <title>Persian New Year</title>
-      <link>https://mahdinaderi.com/post/2023-03-21-blog/</link>
+      <link>//https://mnaderibeni.github.io/post/2023-03-21-blog/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/post/2023-03-21-blog/</guid>
+      <guid>//https://mnaderibeni.github.io/post/2023-03-21-blog/</guid>
       
         <description>Happy Nowruz, the starting day of Spring and the Persian new year.</description>
       
@@ -76,34 +76,23 @@ In creation of one essence and soul.</description>
     
     <item>
       <title>Causal Navigation by Continuous-time Neural Networks</title>
-      <link>https://mahdinaderi.com/talks/2023_03_02-talk-3/</link>
+      <link>//https://mnaderibeni.github.io/talks/2023_03_02-talk-3/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/talks/2023_03_02-talk-3/</guid>
+      <guid>//https://mnaderibeni.github.io/talks/2023_03_02-talk-3/</guid>
       
         <description>Presentation file paper link</description>
       
     </item>
     
     <item>
-      <title>ایــــــران را از یـاد نبـریـم</title>
-      <link>https://mahdinaderi.com/post/2022-09-27-blog-post-1/</link>
-      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://mahdinaderi.com/post/2022-09-27-blog-post-1/</guid>
-      
-        <description>ایران سرزمین شگفت‌آوری است. تاریخ او از نظر رنگارنگی و گوناگونی کم‌نظیر است.</description>
-      
-    </item>
-    
-    <item>
       <title>Neural Operators: Mapping between Function Spaces</title>
-      <link>https://mahdinaderi.com/talks/2022-09-07-talk-2/</link>
+      <link>//https://mnaderibeni.github.io/talks/2022-09-07-talk-2/</link>
       <pubDate>Wed, 07 Sep 2022 21:47:41 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/talks/2022-09-07-talk-2/</guid>
+      <guid>//https://mnaderibeni.github.io/talks/2022-09-07-talk-2/</guid>
       
-        <description>Presentation file
+        <description>[Presentation file]https://mnaderibeni.github.io/files/2022_09_07.pdf)
 paper link
  title: &amp;lsquo;The Figure Shortcode&amp;rsquo; date: 2021-03-13T21:47:41+00:00 draft: false tags:</description>
       
@@ -111,10 +100,10 @@ paper link
     
     <item>
       <title>Discovering governing equations from data by sparse identification of nonlinear dynamical systems</title>
-      <link>https://mahdinaderi.com/talks/2022-05-09-talk-1/</link>
+      <link>//https://mnaderibeni.github.io/talks/2022-05-09-talk-1/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/talks/2022-05-09-talk-1/</guid>
+      <guid>//https://mnaderibeni.github.io/talks/2022-05-09-talk-1/</guid>
       
         <description>Presentation file paper link</description>
       
@@ -122,10 +111,10 @@ paper link
     
     <item>
       <title>Awards</title>
-      <link>https://mahdinaderi.com/awards/</link>
+      <link>//https://mnaderibeni.github.io/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/awards/</guid>
+      <guid>//https://mnaderibeni.github.io/awards/</guid>
       
         <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
       
@@ -133,10 +122,10 @@ paper link
     
     <item>
       <title>Certifications</title>
-      <link>https://mahdinaderi.com/certifications/</link>
+      <link>//https://mnaderibeni.github.io/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/certifications/</guid>
+      <guid>//https://mnaderibeni.github.io/certifications/</guid>
       
         <description>Hugo Certifications</description>
       
@@ -144,10 +133,10 @@ paper link
     
     <item>
       <title></title>
-      <link>https://mahdinaderi.com/archives/</link>
+      <link>//https://mnaderibeni.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/archives/</guid>
+      <guid>//https://mnaderibeni.github.io/archives/</guid>
       
         <description></description>
       
@@ -155,10 +144,10 @@ paper link
     
     <item>
       <title>Contact</title>
-      <link>https://mahdinaderi.com/contact/</link>
+      <link>//https://mnaderibeni.github.io/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/contact/</guid>
+      <guid>//https://mnaderibeni.github.io/contact/</guid>
       
         <description>Contact Page</description>
       
@@ -166,10 +155,10 @@ paper link
     
     <item>
       <title>Hello World!</title>
-      <link>https://mahdinaderi.com/post/2018-05-10-blog/</link>
+      <link>//https://mnaderibeni.github.io/post/2018-05-10-blog/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/post/2018-05-10-blog/</guid>
+      <guid>//https://mnaderibeni.github.io/post/2018-05-10-blog/</guid>
       
         <description>I would like to start writing here with a poems by Ferdowsi.</description>
       
@@ -177,10 +166,10 @@ paper link
     
     <item>
       <title></title>
-      <link>https://mahdinaderi.com/about/</link>
+      <link>//https://mnaderibeni.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/about/</guid>
+      <guid>//https://mnaderibeni.github.io/about/</guid>
       
         <description>About: PhD candidate in the Pattern Recognition Lab at TUDelft. Interested in scientific machine learning, dynamical systems, and numerical analysis.</description>
       
@@ -188,10 +177,10 @@ paper link
     
     <item>
       <title></title>
-      <link>https://mahdinaderi.com/imprint/</link>
+      <link>//https://mnaderibeni.github.io/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mahdinaderi.com/imprint/</guid>
+      <guid>//https://mnaderibeni.github.io/imprint/</guid>
       
         <description>Legal Disclosure Information in accordance with the applicable law
 Jane Doe</description>
