@@ -1,3 +1,3 @@
-module github.com/lxndrblz/anatole-example
+module github.com/lxndrblz/anatole
 
 go 1.12
