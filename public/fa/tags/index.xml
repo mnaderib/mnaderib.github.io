@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on مهدی نادری</title>
+    <link>https://mahdinaderi.com/fa/tags/</link>
+    <description>Recent content in Tags on مهدی نادری</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mahdinaderi.com/fa/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Iran</title>
+      <link>https://mahdinaderi.com/fa/tags/iran/</link>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahdinaderi.com/fa/tags/iran/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>حکایت ها</title>
+      <link>https://mahdinaderi.com/fa/tags/%D8%AD%DA%A9%D8%A7%DB%8C%D8%AA-%D9%87%D8%A7/</link>
+      <pubDate>Tue, 14 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahdinaderi.com/fa/tags/%D8%AD%DA%A9%D8%A7%DB%8C%D8%AA-%D9%87%D8%A7/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title>index</title>
+      <link>https://mahdinaderi.com/fa/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mahdinaderi.com/fa/tags/index/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

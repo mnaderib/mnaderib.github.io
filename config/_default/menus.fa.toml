@@ -1,0 +1,23 @@
+  [[main]]
+  name = "خانه"
+  identifier = "main"
+  weight = 300
+  url = "/fa/"
+
+  [[main]]
+  name = "نوشته ها"
+  weight = 300
+  identifier = "posts"
+  url = "/fa/post/"
+
+  [[main]]
+  name = "درباره"
+  weight = 300
+  identifier = "about"
+  url = "/fa/about/"
+
+  [[main]]
+  name = "تماس"
+  weight = 350
+  identifier = "contact"
+  url = "/fa/contact/"
