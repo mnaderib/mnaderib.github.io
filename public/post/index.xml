@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mahdi Naderi</title>
-    <link>//https://mnaderibeni.github.io/post/</link>
+    <link>https://mnaderibeni.github.io/post/</link>
     <description>Recent content in Posts on Mahdi Naderi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="//https://mnaderibeni.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mnaderibeni.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>For Children of Palestine</title>
-      <link>//https://mnaderibeni.github.io/post/2023-10-19-blog/</link>
+      <link>https://mnaderibeni.github.io/post/2023-10-19-blog/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>//https://mnaderibeni.github.io/post/2023-10-19-blog/</guid>
+      <guid>https://mnaderibeni.github.io/post/2023-10-19-blog/</guid>
       
         <description>Human beings are members of a whole,
 In creation of one essence and soul.</description>
@@ -21,10 +21,10 @@ In creation of one essence and soul.</description>
     
     <item>
       <title>Persian New Year</title>
-      <link>//https://mnaderibeni.github.io/post/2023-03-21-blog/</link>
+      <link>https://mnaderibeni.github.io/post/2023-03-21-blog/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//https://mnaderibeni.github.io/post/2023-03-21-blog/</guid>
+      <guid>https://mnaderibeni.github.io/post/2023-03-21-blog/</guid>
       
         <description>Happy Nowruz, the starting day of Spring and the Persian new year.</description>
       
@@ -32,10 +32,10 @@ In creation of one essence and soul.</description>
     
     <item>
       <title>Hello World!</title>
-      <link>//https://mnaderibeni.github.io/post/2018-05-10-blog/</link>
+      <link>https://mnaderibeni.github.io/post/2018-05-10-blog/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>//https://mnaderibeni.github.io/post/2018-05-10-blog/</guid>
+      <guid>https://mnaderibeni.github.io/post/2018-05-10-blog/</guid>
       
         <description>I would like to start writing here with a poems by Ferdowsi.</description>
       

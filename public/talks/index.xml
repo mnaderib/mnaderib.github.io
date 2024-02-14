@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Mahdi Naderi</title>
-    <link>//https://mnaderibeni.github.io/talks/</link>
+    <link>https://mnaderibeni.github.io/talks/</link>
     <description>Recent content in Talks on Mahdi Naderi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="//https://mnaderibeni.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mnaderibeni.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From data to functa: Your data point is a function and you can treat it like one</title>
-      <link>//https://mnaderibeni.github.io/talks/2023_11_30-talk-7/</link>
+      <link>https://mnaderibeni.github.io/talks/2023_11_30-talk-7/</link>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>//https://mnaderibeni.github.io/talks/2023_11_30-talk-7/</guid>
+      <guid>https://mnaderibeni.github.io/talks/2023_11_30-talk-7/</guid>
       
         <description>Presentation file paper link</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Integral Neural Networks</title>
-      <link>//https://mnaderibeni.github.io/talks/2023_10_24-talk-6/</link>
+      <link>https://mnaderibeni.github.io/talks/2023_10_24-talk-6/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>//https://mnaderibeni.github.io/talks/2023_10_24-talk-6/</guid>
+      <guid>https://mnaderibeni.github.io/talks/2023_10_24-talk-6/</guid>
       
         <description>Presentation file paper link</description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Score-Based Generative Modeling through Stochastic Differential Equations</title>
-      <link>//https://mnaderibeni.github.io/talks/2023_06_28-talk-5/</link>
+      <link>https://mnaderibeni.github.io/talks/2023_06_28-talk-5/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>//https://mnaderibeni.github.io/talks/2023_06_28-talk-5/</guid>
+      <guid>https://mnaderibeni.github.io/talks/2023_06_28-talk-5/</guid>
       
         <description>Presentation file paper link</description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>Condensing CNNs with Partial Differential Equations</title>
-      <link>//https://mnaderibeni.github.io/talks/2023_05_09-talk-4/</link>
+      <link>https://mnaderibeni.github.io/talks/2023_05_09-talk-4/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>//https://mnaderibeni.github.io/talks/2023_05_09-talk-4/</guid>
+      <guid>https://mnaderibeni.github.io/talks/2023_05_09-talk-4/</guid>
       
         <description>Presentation file paper link</description>
       
@@ -53,10 +53,10 @@
     
     <item>
       <title>Causal Navigation by Continuous-time Neural Networks</title>
-      <link>//https://mnaderibeni.github.io/talks/2023_03_02-talk-3/</link>
+      <link>https://mnaderibeni.github.io/talks/2023_03_02-talk-3/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>//https://mnaderibeni.github.io/talks/2023_03_02-talk-3/</guid>
+      <guid>https://mnaderibeni.github.io/talks/2023_03_02-talk-3/</guid>
       
         <description>Presentation file paper link</description>
       
@@ -64,10 +64,10 @@
     
     <item>
       <title>Neural Operators: Mapping between Function Spaces</title>
-      <link>//https://mnaderibeni.github.io/talks/2022-09-07-talk-2/</link>
+      <link>https://mnaderibeni.github.io/talks/2022-09-07-talk-2/</link>
       <pubDate>Wed, 07 Sep 2022 21:47:41 +0000</pubDate>
       
-      <guid>//https://mnaderibeni.github.io/talks/2022-09-07-talk-2/</guid>
+      <guid>https://mnaderibeni.github.io/talks/2022-09-07-talk-2/</guid>
       
         <description>[Presentation file]https://mnaderibeni.github.io/files/2022_09_07.pdf)
 paper link
@@ -77,10 +77,10 @@ paper link
     
     <item>
       <title>Discovering governing equations from data by sparse identification of nonlinear dynamical systems</title>
-      <link>//https://mnaderibeni.github.io/talks/2022-05-09-talk-1/</link>
+      <link>https://mnaderibeni.github.io/talks/2022-05-09-talk-1/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>//https://mnaderibeni.github.io/talks/2022-05-09-talk-1/</guid>
+      <guid>https://mnaderibeni.github.io/talks/2022-05-09-talk-1/</guid>
       
         <description>Presentation file paper link</description>
       
