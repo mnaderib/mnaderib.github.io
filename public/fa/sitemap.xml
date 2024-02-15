@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://mnaderibeni.github.io/fa/post/</loc>
-    <lastmod>2023-11-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -15,6 +15,31 @@
                 hreflang="fa"
                 href="https://mnaderibeni.github.io/fa/post/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://mnaderibeni.github.io/fa/tags/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mnaderibeni.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://mnaderibeni.github.io/fa/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mnaderibeni.github.io/fa/tags/%D8%AD%DA%A9%D8%A7%DB%8C%D8%AA-%D9%87%D8%A7/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mnaderibeni.github.io/fa/post/2023-11-28/</loc>
+    <lastmod>2023-11-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -34,21 +59,6 @@
                 rel="alternate"
                 hreflang="fa"
                 href="https://mnaderibeni.github.io/fa/tags/iran/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mnaderibeni.github.io/fa/tags/</loc>
-    <lastmod>2022-09-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mnaderibeni.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://mnaderibeni.github.io/fa/tags/"
                 />
   </url>
   
@@ -103,11 +113,6 @@
   </url>
   
   <url>
-    <loc>https://mnaderibeni.github.io/fa/tags/%D8%AD%DA%A9%D8%A7%DB%8C%D8%AA-%D9%87%D8%A7/</loc>
-    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mnaderibeni.github.io/fa/post/2018-08-14-blog/</loc>
     <lastmod>2018-08-14T00:00:00+00:00</lastmod>
   </url>
@@ -156,10 +161,6 @@
                 hreflang="fa"
                 href="https://mnaderibeni.github.io/fa/series/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://mnaderibeni.github.io/fa/post/2023-11-28/</loc>
   </url>
   
 </urlset>
