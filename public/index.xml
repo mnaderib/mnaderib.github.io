@@ -31,6 +31,17 @@ paper link</description>
     </item>
     
     <item>
+      <title>Machine Learning for differential equations? Is that a thing?</title>
+      <link>https://mnaderibeni.github.io/post/2023-11-03-blog/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mnaderibeni.github.io/post/2023-11-03-blog/</guid>
+      
+        <description>Once in a while I hear the question how machine learning can have any connection with differential equations?</description>
+      
+    </item>
+    
+    <item>
       <title>Integral Neural Networks</title>
       <link>https://mnaderibeni.github.io/talks/2023_10_24-talk-6/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
@@ -75,6 +86,17 @@ paper link</description>
       
         <description>Presentation file
 paper link</description>
+      
+    </item>
+    
+    <item>
+      <title>In search for algorithms that are fast with math!</title>
+      <link>https://mnaderibeni.github.io/post/2023-04-20-blog/</link>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mnaderibeni.github.io/post/2023-04-20-blog/</guid>
+      
+        <description>Recently, I gave a talk at AI4b.io symposium on accelerating Computational Fluid Dynamics with Machine Learning.</description>
       
     </item>
     

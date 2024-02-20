@@ -1,5 +1,7 @@
 [en]
 title = "Mahdi Naderi"
+description = "PhD at Pattern Recognition Lab; TU Delft; \n Interested in Scientific Machine Learning"
+
 weight = 1
 LanguageName = "EN"
 contentDir = "content/english"
@@ -10,4 +12,4 @@ description = "دانشجوی مقطع دکتری (یادگیری ماشین) \n
 contentDir = "content/farsi" 
 weight = 1
 LanguageDirection = "rtl" 
-LanguageName = "پارسی"
+LanguageName = "فارسی"

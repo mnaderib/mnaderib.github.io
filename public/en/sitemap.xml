@@ -18,18 +18,18 @@
   </url>
   
   <url>
-    <loc>https://mnaderibeni.github.io/talks/2023_10_24-talk-6/</loc>
-    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <loc>https://mnaderibeni.github.io/post/2023-11-03-blog/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mnaderibeni.github.io/post/2023-10-19-blog/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+    <loc>https://mnaderibeni.github.io/tags/machine_learning/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mnaderibeni.github.io/post/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
@@ -43,6 +43,31 @@
   </url>
   
   <url>
+    <loc>https://mnaderibeni.github.io/tags/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://mnaderibeni.github.io/fa/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mnaderibeni.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mnaderibeni.github.io/talks/2023_10_24-talk-6/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mnaderibeni.github.io/post/2023-10-19-blog/</loc>
+    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mnaderibeni.github.io/talks/2023_06_28-talk-5/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url>
@@ -50,6 +75,16 @@
   <url>
     <loc>https://mnaderibeni.github.io/talks/2023_05_09-talk-4/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mnaderibeni.github.io/tags/fluid_dynamics/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mnaderibeni.github.io/post/2023-04-20-blog/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -70,21 +105,6 @@
   <url>
     <loc>https://mnaderibeni.github.io/post/2023-03-21-blog/</loc>
     <lastmod>2023-03-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mnaderibeni.github.io/tags/</loc>
-    <lastmod>2023-03-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://mnaderibeni.github.io/fa/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mnaderibeni.github.io/tags/"
-                />
   </url>
   
   <url>
