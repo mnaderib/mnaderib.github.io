@@ -3,6 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mnaderibeni.github.io/</loc>
+    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://mnaderibeni.github.io/fa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mnaderibeni.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mnaderibeni.github.io/contact/</loc>
+    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://mnaderibeni.github.io/fa/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mnaderibeni.github.io/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mnaderibeni.github.io/tags/machine_learning/</loc>
+    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mnaderibeni.github.io/post/</loc>
+    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://mnaderibeni.github.io/fa/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mnaderibeni.github.io/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mnaderibeni.github.io/tags/</loc>
+    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="https://mnaderibeni.github.io/fa/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mnaderibeni.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mnaderibeni.github.io/post/2024-02-24/</loc>
+    <lastmod>2024-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mnaderibeni.github.io/talks/</loc>
     <lastmod>2024-02-15T00:00:00+00:00</lastmod>
   </url>
@@ -20,41 +90,6 @@
   <url>
     <loc>https://mnaderibeni.github.io/post/2023-11-03-blog/</loc>
     <lastmod>2023-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mnaderibeni.github.io/tags/machine_learning/</loc>
-    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mnaderibeni.github.io/post/</loc>
-    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://mnaderibeni.github.io/fa/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mnaderibeni.github.io/post/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mnaderibeni.github.io/tags/</loc>
-    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://mnaderibeni.github.io/fa/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mnaderibeni.github.io/tags/"
-                />
   </url>
   
   <url>
@@ -123,21 +158,6 @@
   </url>
   
   <url>
-    <loc>https://mnaderibeni.github.io/</loc>
-    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://mnaderibeni.github.io/fa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mnaderibeni.github.io/"
-                />
-  </url>
-  
-  <url>
     <loc>https://mnaderibeni.github.io/awards/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url>
@@ -159,21 +179,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://mnaderibeni.github.io/archives/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mnaderibeni.github.io/contact/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="https://mnaderibeni.github.io/fa/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mnaderibeni.github.io/contact/"
                 />
   </url>
   

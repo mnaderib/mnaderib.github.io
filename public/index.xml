@@ -6,7 +6,29 @@
     <description>Recent content on Mahdi Naderi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mnaderibeni.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mnaderibeni.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>https://mnaderibeni.github.io/contact/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mnaderibeni.github.io/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>https://mnaderibeni.github.io/post/2024-02-24/</link>
+      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mnaderibeni.github.io/post/2024-02-24/</guid>
+      
+        <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>The boundary of neural network trainability is fractal.</title>
       <link>https://mnaderibeni.github.io/talks/2024_02_15-talk-8/</link>
@@ -31,13 +53,13 @@ paper link</description>
     </item>
     
     <item>
-      <title>Machine Learning for differential equations? Is that a thing?</title>
+      <title>Machine Learning and differential equations?</title>
       <link>https://mnaderibeni.github.io/post/2023-11-03-blog/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>https://mnaderibeni.github.io/post/2023-11-03-blog/</guid>
       
-        <description>Once in a while I hear the question how machine learning can have any connection with differential equations?</description>
+        <description>Once in a while I hear the question: &amp;ldquo;how machine learning can have any connection with differential equations?</description>
       
     </item>
     
@@ -96,7 +118,7 @@ paper link</description>
       
       <guid>https://mnaderibeni.github.io/post/2023-04-20-blog/</guid>
       
-        <description>Recently, I gave a talk at AI4b.io symposium on accelerating Computational Fluid Dynamics with Machine Learning.</description>
+        <description>Recently, I gave a presentation at AI4b.io symposium on accelerating Computational Fluid Dynamics with Machine Learning.</description>
       
     </item>
     
@@ -177,17 +199,6 @@ paper link</description>
       <guid>https://mnaderibeni.github.io/archives/</guid>
       
         <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://mnaderibeni.github.io/contact/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mnaderibeni.github.io/contact/</guid>
-      
-        <description>Contact Page</description>
       
     </item>
     

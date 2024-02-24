@@ -10,7 +10,7 @@
   <title>
     
       
-        Machine Learning for differential equations? Is that a thing? |
+        Machine Learning and differential equations? |
       Mahdi Naderi
 
   </title>
@@ -114,14 +114,14 @@
   <meta name="twitter:card" content="summary_large_image"/>
 <meta name="twitter:image" content="https://mnaderibeni.github.io/images/site-feature-image.png"/>
 
-<meta name="twitter:title" content="Machine Learning for differential equations? Is that a thing?"/>
-<meta name="twitter:description" content="Once in a while I hear the question how machine learning can have any connection with differential equations?"/>
+<meta name="twitter:title" content="Machine Learning and differential equations?"/>
+<meta name="twitter:description" content="Once in a while I hear the question: &ldquo;how machine learning can have any connection with differential equations?"/>
 
 
 
   
-  <meta property="og:title" content="Machine Learning for differential equations? Is that a thing?" />
-<meta property="og:description" content="Once in a while I hear the question how machine learning can have any connection with differential equations?" />
+  <meta property="og:title" content="Machine Learning and differential equations?" />
+<meta property="og:description" content="Once in a while I hear the question: &ldquo;how machine learning can have any connection with differential equations?" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://mnaderibeni.github.io/post/2023-11-03-blog/" />
 <meta property="og:image" content="https://mnaderibeni.github.io/images/site-feature-image.png"/>
@@ -139,12 +139,12 @@
         "@context": "http://schema.org",
         "@type": "BlogPosting",
         "articleSection": "post",
-        "name": "Machine Learning for differential equations? Is that a thing?",
-        "headline": "Machine Learning for differential equations? Is that a thing?",
+        "name": "Machine Learning and differential equations?",
+        "headline": "Machine Learning and differential equations?",
         "alternativeHeadline": "",
         "description": "
       
-        Once in a while I hear the question how machine learning can have any connection with differential equations?
+        Once in a while I hear the question: \x26ldquo;how machine learning can have any connection with differential equations?
 
 
       
@@ -199,7 +199,7 @@
 
     ,
         "url" : "https:\/\/mnaderibeni.github.io\/post\/2023-11-03-blog\/",
-        "wordCount" : "383",
+        "wordCount" : "496",
         "genre" : [ ],
         "keywords" : [ 
       
@@ -310,7 +310,13 @@
     src="/js/medium-zoom.min.7d3bf3472b73d9ba107b3de37d0df8fa736593a3c6638c95eaed42006bfc0193.js"
     integrity="sha256-fTvzRytz2boQez3jfQ34&#43;nNlk6PGY4yV6u1CAGv8AZM="
     crossorigin="anonymous"
-  ></script></div>
+  ></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.0/dist/katex.min.css" integrity="sha384-t5CR&#43;zwDAROtph0PXGte6ia8heboACF9R5l/DiY&#43;WZ3P2lxNgvJkQk5n7GPvLMYw" crossorigin="anonymous" /><script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.0/dist/katex.min.js" integrity="sha384-FaFLTlohFghEIZkw6VGwmf9ISTubWAVYW8tG8&#43;w2LAIftJEULZABrF9PPFv&#43;tVkH" crossorigin="anonymous"></script><script
+      defer
+      src="https://cdn.jsdelivr.net/npm/katex@0.13.0/dist/contrib/auto-render.min.js"
+      integrity="sha384-bHBqxz8fokvgoJ/sc17HODNxa42TlaEhB&#43;w8ZJXTc2nZf1VgEaFZeZvT4Mznfz0v"
+      crossorigin="anonymous"
+      onload="renderMathInElement(document.body);"
+    ></script></div>
 </aside>
       <main
         
@@ -429,7 +435,7 @@
   >
     
     <div class="post__content">
-      <h1>Machine Learning for Differential Equations? Is That a Thing?</h1>
+      <h1>Machine Learning and Differential Equations?</h1>
       
         <ul class="post__meta">
           <li class="post__meta-item">
@@ -445,12 +451,18 @@
           </li>
           <li class="post__meta-item">
             <em class="fas fa-stopwatch post__meta-icon"></em>
-            <span class="post__meta-text">2-minute read</span>
+            <span class="post__meta-text">3-minute read</span>
           </li>
         </ul>
-      <p>Once in a while I hear the question how machine learning can have any connection with differential equations?</p>
-<p><img src="https://mnaderibeni.github.io/images/ML4DEs.png" alt="fast_with_math"></p>
-<p>An interesting example that I can mention is the diffusion model (in other words: Score-Based Generative Modeling with Stochastic Differential Equations). These models were introduced not a very long ago with several prominent research papers titled:</p>
+      <p>Once in a while I hear the question: &ldquo;how machine learning can have any connection with differential equations?
+<img src="https://mnaderibeni.github.io/images/ML4DEs.png" alt="fast_with_math"></p>
+<p>
+ </p>
+<h2 id="gradient-descent-too-big-to-be-visible">Gradient Descent; too big to be visible!</h2>
+<p>Majority of ML models benefit from gradient based optimization algorithms to adjust tunable parameters. Gradient Descent (GD) and its extensions serve as the most basic algorithm used for training ML models particularily Neural Networks. The connection of training dynamics in GD algorithm and differential equations is very well explained in these two blog posts that are about Neural Tangent Kernel <a href="https://lilianweng.github.io/posts/2022-09-08-ntk/">Some Math behind Neural Tangent Kernel</a>, <a href="https://rajatvd.github.io/NTK/">Understanding the Neural Tangent Kernel</a> . However, this post does not focus on gradient descent; rather, it delves into a fascinating application of its counterpart, Gradient Ascent!</p>
+<p> </p>
+<h2 id="gradient-ascent-differential-rquations-and-generative-modeling">Gradient ascent, differential rquations and generative modeling</h2>
+<p>A very interesting application of differential equations in generative modeling is in diffusion models, (or better to be called: Score-Based Generative Modeling with Stochastic Differential Equations). These models were introduced not a very long ago with several prominent research papers titled:</p>
 <ol>
 <li>
 <p><a href="https://arxiv.org/abs/1503.03585">Deep Unsupervised Learning using Nonequilibrium Thermodynamics</a></p>
@@ -462,12 +474,12 @@
 <p><a href="https://arxiv.org/abs/2011.13456">Score-Based Generative Modeling through Stochastic Differential Equations</a></p>
 </li>
 </ol>
-<p>and they have played prominent role in enabling high quality/resolution generative modeling.</p>
+<p>and they have played a prominent role in enabling high quality/resolution generative modeling.</p>
 <p>To put in very simple words, generative modeling with diffusion models is like the gradient ascent method; to have an initial guess and to move it towards the maximum of the function (in this case the probability density function).</p>
-<p>In this method rather than learning the probability distribution, the gradient of its logarithm is being learned (score-function). The probability density function is an scalar and its gradient is a vector field. For a point in feature space we don&rsquo;t learn the value of the scaler but we try to learn the components of a vector field that point towards the maximum regions. With this vector field being learned, we can sample any random point in the feature space and move it along this vector field towards the hig probable regions.</p>
-<p>To train a generative model, we start with samples that already belong to the high probable regions of the probability distribution. Therefore it is not very difficult to learn the vector field in these regions. However such regions cover a very small portion of the feature space and it is rather impossible to learn the score-function (the vector field) in regions with no samples. This was the main pitfall of score-based generative models until this problem was solved with diffusion models. To put it in simple words, the solution is to populate the feature space with noisy training data. This is achieved by adding multiple scales of noise. This is helpful in learning a close approximate of the mentioned vector filed.</p>
-<p>In sample generation mode, we usually start with pure noise and move it along the learned score-function. This procidue is an iterative numerical approach to solve a stochastic differential equation.</p>
-<p>Some usfull links:</p>
+<p>In this method rather than learning the probability distribution, the gradient of its logarithm is being learned (score-function). The probability density function is a scalar and its gradient is a vector field. For a point in feature space we don&rsquo;t learn the value of the scalar but we try to learn the components of a vector field that point towards the maximum regions. With this vector field being learned, we can sample any random point in the feature space and move it along this vector field towards the high probable regions.</p>
+<p>To train a generative model, we start with samples that already belong to the high probable regions of the probability distribution. Therefore it is not very difficult to learn the vector field in these regions. However such regions cover a very small portion of the feature space and it is rather impossible to learn the score-function (the vector field) in regions with no samples. This was the main pitfall of score-based generative models until this problem was solved with diffusion models. To put it in simple words, the solution is to populate the feature space with noisy training data. This is achieved by adding multiple scales of noise. This is helpful in learning a close approximation of the mentioned vector field.</p>
+<p>In sample generation mode, we usually start with pure noise and move it along the learned score-function. This procedure is an iterative numerical approach to solve a stochastic differential equation.</p>
+<p>Some useful links:</p>
 <ul>
 <li><a href="https://yang-song.net/blog/2021/score/">Yang Song&rsquo;s blog post</a></li>
 <li><a href="https://www.youtube.com/watch?v=wMmqCMwuM2Q&amp;ab_channel=MITCBMM">Diffusion and Score-Based Generative Models</a></li>
@@ -478,11 +490,11 @@
   <h3>Related Posts</h3>
   <ul>
     
+      <li><a href="/post/2024-02-24/">test</a></li>
+    
+      <li><a href="/contact/">Contact</a></li>
+    
       <li><a href="/talks/2024_02_15-talk-8/">The boundary of neural network trainability is fractal.</a></li>
-    
-      <li><a href="/talks/2023_11_30-talk-7/">From data to functa: Your data point is a function and you can treat it like one</a></li>
-    
-      <li><a href="/talks/2023_10_24-talk-6/">Integral Neural Networks</a></li>
     
   </ul>
 
@@ -522,5 +534,11 @@
     src="/js/medium-zoom.min.7d3bf3472b73d9ba107b3de37d0df8fa736593a3c6638c95eaed42006bfc0193.js"
     integrity="sha256-fTvzRytz2boQez3jfQ34&#43;nNlk6PGY4yV6u1CAGv8AZM="
     crossorigin="anonymous"
-  ></script></body>
+  ></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.13.0/dist/katex.min.css" integrity="sha384-t5CR&#43;zwDAROtph0PXGte6ia8heboACF9R5l/DiY&#43;WZ3P2lxNgvJkQk5n7GPvLMYw" crossorigin="anonymous" /><script defer src="https://cdn.jsdelivr.net/npm/katex@0.13.0/dist/katex.min.js" integrity="sha384-FaFLTlohFghEIZkw6VGwmf9ISTubWAVYW8tG8&#43;w2LAIftJEULZABrF9PPFv&#43;tVkH" crossorigin="anonymous"></script><script
+      defer
+      src="https://cdn.jsdelivr.net/npm/katex@0.13.0/dist/contrib/auto-render.min.js"
+      integrity="sha384-bHBqxz8fokvgoJ/sc17HODNxa42TlaEhB&#43;w8ZJXTc2nZf1VgEaFZeZvT4Mznfz0v"
+      crossorigin="anonymous"
+      onload="renderMathInElement(document.body);"
+    ></script></body>
 </html>
