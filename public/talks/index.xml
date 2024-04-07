@@ -6,7 +6,18 @@
     <description>Recent content in Talks on Mahdi Naderi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mnaderibeni.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mnaderibeni.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neural Tangent Kernel</title>
+      <link>https://mnaderibeni.github.io/talks/2024_04_02-talk-9/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mnaderibeni.github.io/talks/2024_04_02-talk-9/</guid>
+      
+        <description>Presentation file paper link</description>
+      
+    </item>
+    
     <item>
       <title>The boundary of neural network trainability is fractal.</title>
       <link>https://mnaderibeni.github.io/talks/2024_02_15-talk-8/</link>

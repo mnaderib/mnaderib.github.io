@@ -5,6 +5,18 @@
     <link>https://mnaderibeni.github.io/series/</link>
     <description>Recent content in Series on Mahdi Naderi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://mnaderibeni.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://mnaderibeni.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Machine Learning</title>
+      <link>https://mnaderibeni.github.io/series/machine-learning/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://mnaderibeni.github.io/series/machine-learning/</guid>
+      
+        <description></description>
+      
+    </item>
+    
   </channel>
 </rss>

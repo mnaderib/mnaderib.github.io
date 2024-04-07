@@ -8,6 +8,17 @@
     <language>en</language>
     <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mnaderibeni.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Neural Tangent Kernel</title>
+      <link>https://mnaderibeni.github.io/talks/2024_04_02-talk-9/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://mnaderibeni.github.io/talks/2024_04_02-talk-9/</guid>
+      
+        <description>Presentation file paper link</description>
+      
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://mnaderibeni.github.io/contact/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
@@ -15,17 +26,6 @@
       <guid>https://mnaderibeni.github.io/contact/</guid>
       
         <description>Contact Page</description>
-      
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://mnaderibeni.github.io/post/2024-02-24/</link>
-      <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://mnaderibeni.github.io/post/2024-02-24/</guid>
-      
-        <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
       
     </item>
     
@@ -176,7 +176,7 @@ paper link</description>
       
       <guid>https://mnaderibeni.github.io/awards/</guid>
       
-        <description>Hugo Awards, an annual literary award for the best science fiction or fantasy works</description>
+        <description>Awards</description>
       
     </item>
     
@@ -188,6 +188,18 @@ paper link</description>
       <guid>https://mnaderibeni.github.io/certifications/</guid>
       
         <description>Hugo Certifications</description>
+      
+    </item>
+    
+    <item>
+      <title>the death of flames</title>
+      <link>https://mnaderibeni.github.io/post/2020-01-03/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mnaderibeni.github.io/post/2020-01-03/</guid>
+      
+        <description>Amongst the various kinds of deaths,
+The most bitter is the death of leaves,</description>
       
     </item>
     

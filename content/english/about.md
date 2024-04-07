@@ -11,8 +11,6 @@ About:
 ======
 PhD candidate in the Pattern Recognition Lab at TUDelft. <br /> 
 Interested in scientific machine learning, dynamical systems, and numerical analysis.<br /> 
-I earned my M.Sc degree in chemical engineering in Sep 2018 from Sharif University of Technology (Tehran, Iran).
-
 
 Education
 ======
@@ -32,7 +30,7 @@ Project: Heat Transfer in Micro-fluidic Junctions [link](https://thesis.iut.ac.i
   * Sub-skill 2.3
 * Skill 3 -->
 
-Honors & awards
+Awards
 ======
 * Bronze Medal in 21st National Chemical Engineering Olympiad, Jul 2016.
 * Ranked 2nd in Iran’s National University Entrance Exam (Concours) of M.Sc in Processing and Transportation of Natural Gas, May 2016.
