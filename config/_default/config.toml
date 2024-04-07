@@ -1,7 +1,7 @@
 baseURL = "https://mnaderibeni.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Mahdi Naderi"
+#title = "Mahdi Naderi"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
@@ -24,7 +24,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 # Localized dates requires Hugo version 0.87.0
-localizedDates = false
+localizedDates = true
 
 [markup]
     [markup.goldmark]
