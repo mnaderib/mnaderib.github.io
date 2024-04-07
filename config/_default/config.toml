@@ -1,7 +1,7 @@
 baseURL = "https://mnaderibeni.github.io/"
 languageCode = "en"
 DefaultContentLanguage = "en"
-#title = "Mahdi Naderi"
+title = "Mahdi Naderi"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
