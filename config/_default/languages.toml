@@ -1,13 +1,13 @@
 [en]
-title = "Mahdi Naderi"
+Title = "Mahdi Naderi"
 description = "PhD at Pattern Recognition Lab; TU Delft; \n Interested in Scientific Machine Learning"
 weight = 1
 LanguageName = "EN"
 contentDir = "content/english"
 
 [fa]
-title = "مهدی نادری"
-description = "دانشجوی مقطع دکتری (یادگیری ماشین) \n گروه تشخیص الگو و بیوانفورماتیک، دانشگاه صنعتی دلفت"
+Title = "مهدی نادری"
+description = "مهدی نادری بنی  \n دانشجوی مقطع دکتری (یادگیری ماشین) \n گروه تشخیص الگو و بیوانفورماتیک، دانشگاه صنعتی دلفت"
 contentDir = "content/farsi" 
 weight = 1
 LanguageDirection = "rtl" 

@@ -1,25 +1,20 @@
-<div
-  class="sidebar{{ with .Site.Params.doNotLoadAnimations }}
+<div class="sidebar{{ with .Site.Params.doNotLoadAnimations }}
     .
   {{ else }}
     animated fadeInDown
-  {{ end }}"
->
+  {{ end }}">
   <div class="sidebar__content">
     <div class="sidebar__introduction">
-      <img
-        class="sidebar__introduction-profileimage"
-        src="{{ .Site.Params.profilePicture | relURL }}"
-        alt="profile picture"
-      />
+      <img class="sidebar__introduction-profileimage" src="{{ .Site.Params.profilePicture | relURL }}"
+        alt="profile picture" />
       {{ if .IsHome }}
-        <h1 class="sidebar__introduction-title">
-          <a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Title }}</a>
-        </h1>
+      <h1 class="sidebar__introduction-title">
+        <a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Title }}</a>
+      </h1>
       {{ else }}
-        <div class="sidebar__introduction-title">
-          <a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Title }}</a>
-        </div>
+      <div class="sidebar__introduction-title">
+        <a href="{{ .Site.BaseURL | relLangURL }}">{{ .Site.Params.Title }}</a>
+      </div>
       {{ end }}
       <div class="sidebar__introduction-description">
         <p>{{ replace .Site.Params.description "\n" "<br />" | safeHTML }}</p>
@@ -27,17 +22,12 @@
     </div>
     <ul class="sidebar__list">
       {{ range $item := .Site.Params.socialIcons }}
-        <li class="sidebar__list-item">
-          <a
-            href="{{ $item.url }}"
-            target="_blank"
-            rel="noopener me"
-            aria-label="{{ $item.title }}"
-            title="{{ $item.title }}"
-          >
-            <i class="{{ $item.icon }} fa-2x" aria-hidden="true"></i>
-          </a>
-        </li>
+      <li class="sidebar__list-item">
+        <a href="{{ $item.url }}" target="_blank" rel="noopener me" aria-label="{{ $item.title }}"
+          title="{{ $item.title }}">
+          <i class="{{ $item.icon }} fa-2x" aria-hidden="true"></i>
+        </a>
+      </li>
       {{ end }}
     </ul>
   </div>
