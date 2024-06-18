@@ -74,7 +74,7 @@ url = "https://www.twitter.com/mnaderib"
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:12mahdinaderi@gmail.com"
+url = "mailto:mahdinaderi.ir@gmail.com"
 
 [mermaid]
 # enable = true
