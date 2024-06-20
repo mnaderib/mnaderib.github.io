@@ -7,11 +7,11 @@
 body {
   @include ltr {
     font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Work Sans', 'Hiragino Sans GB', sans-serif;
-    font-size: 1.6rem;
+    font-size: 1.8rem;
   }
 
   @include rtl {
     font-family: 'Tajawal', sans-serif;
-    font-size: 1.5rem;
+    font-size: 1.7rem;
   }
 }

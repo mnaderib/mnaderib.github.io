@@ -7,7 +7,7 @@ contentDir = "content/english"
 
 [fa]
 Title = "مهدی نادری"
-description = "مهدی نادری بنی  \n دانشجوی مقطع دکتری (یادگیری ماشین) \n گروه تشخیص الگو و بیوانفورماتیک، دانشگاه صنعتی دلفت"
+description = "مهدی نادری بنی  \n دانشجوی دوره دکتری (یادگیری ماشین) \n گروه شناخت الگو و بیوانفورماتیک، دانشگاه صنعتی دلفت"
 contentDir = "content/farsi" 
 weight = 1
 LanguageDirection = "rtl" 

@@ -12,7 +12,7 @@
 
  [[main]]
   name = "Talks"
-  weight = 200
+  weight = 300
   identifier = "talks"
   url = "/talks/"
 

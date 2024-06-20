@@ -1,12 +1,12 @@
   [[main]]
   name = "خانه"
   identifier = "main"
-  weight = 300
+  weight = 100
   url = "/fa/"
 
   [[main]]
   name = "نوشته ها"
-  weight = 300
+  weight = 200
   identifier = "posts"
   url = "/fa/post/"
 
@@ -18,6 +18,6 @@
 
   [[main]]
   name = "تماس"
-  weight = 350
+  weight = 400
   identifier = "contact"
   url = "/fa/contact/"
