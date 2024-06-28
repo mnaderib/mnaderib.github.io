@@ -21,5 +21,5 @@ $body-max-width: 1920px;
 $sidebar-ratio: calc(1 - #{$content-ratio});
 $content-max-width: calc(#{$body-max-width} * #{$content-ratio});
 $sidebar-max-width: calc(#{$body-max-width} - #{$content-max-width});
-$content-width: calc(#{$content-ratio} * 100%);
+$content-width: calc(#{$content-ratio} * 90%);
 $sidebar-width: calc(#{$sidebar-ratio} * 100%);
