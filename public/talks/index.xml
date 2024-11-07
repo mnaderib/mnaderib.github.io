@@ -2,17 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on Mahdi Naderi</title>
-    <link>https://mnaderibeni.github.io/talks/</link>
+    <link>http://localhost:1313/talks/</link>
     <description>Recent content in Talks on Mahdi Naderi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mnaderibeni.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diffusion Models and Dynamics</title>
+      <link>http://localhost:1313/talks/2024_09_26-talk-10/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024_09_26-talk-10/</guid>
+      
+        <description> Presentation file ---</description>
+      
+    </item>
+    
+    <item>
+      <title>Implicit Neural Representations</title>
+      <link>http://localhost:1313/talks/2024-05-14/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024-05-14/</guid>
+      
+        <description> Presentation file ---</description>
+      
+    </item>
+    
     <item>
       <title>Neural Tangent Kernel</title>
-      <link>https://mnaderibeni.github.io/talks/2024_04_02-talk-9/</link>
+      <link>http://localhost:1313/talks/2024_04_02-talk-9/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2024_04_02-talk-9/</guid>
+      <guid>http://localhost:1313/talks/2024_04_02-talk-9/</guid>
       
         <description>Presentation file paper link</description>
       
@@ -20,10 +42,10 @@
     
     <item>
       <title>The boundary of neural network trainability is fractal.</title>
-      <link>https://mnaderibeni.github.io/talks/2024_02_15-talk-8/</link>
+      <link>http://localhost:1313/talks/2024_02_15-talk-8/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2024_02_15-talk-8/</guid>
+      <guid>http://localhost:1313/talks/2024_02_15-talk-8/</guid>
       
         <description>Presentation file paper link</description>
       
@@ -31,10 +53,10 @@
     
     <item>
       <title>From data to functa: Your data point is a function and you can treat it like one</title>
-      <link>https://mnaderibeni.github.io/talks/2023_11_30-talk-7/</link>
+      <link>http://localhost:1313/talks/2023_11_30-talk-7/</link>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2023_11_30-talk-7/</guid>
+      <guid>http://localhost:1313/talks/2023_11_30-talk-7/</guid>
       
         <description>Presentation file
 paper link</description>
@@ -43,10 +65,10 @@ paper link</description>
     
     <item>
       <title>Integral Neural Networks</title>
-      <link>https://mnaderibeni.github.io/talks/2023_10_24-talk-6/</link>
+      <link>http://localhost:1313/talks/2023_10_24-talk-6/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2023_10_24-talk-6/</guid>
+      <guid>http://localhost:1313/talks/2023_10_24-talk-6/</guid>
       
         <description>Presentation file
 paper link</description>
@@ -55,10 +77,10 @@ paper link</description>
     
     <item>
       <title>Score-Based Generative Modeling through Stochastic Differential Equations</title>
-      <link>https://mnaderibeni.github.io/talks/2023_06_28-talk-5/</link>
+      <link>http://localhost:1313/talks/2023_06_28-talk-5/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2023_06_28-talk-5/</guid>
+      <guid>http://localhost:1313/talks/2023_06_28-talk-5/</guid>
       
         <description>Presentation file
 paper link</description>
@@ -67,10 +89,10 @@ paper link</description>
     
     <item>
       <title>Condensing CNNs with Partial Differential Equations</title>
-      <link>https://mnaderibeni.github.io/talks/2023_05_09-talk-4/</link>
+      <link>http://localhost:1313/talks/2023_05_09-talk-4/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2023_05_09-talk-4/</guid>
+      <guid>http://localhost:1313/talks/2023_05_09-talk-4/</guid>
       
         <description>Presentation file
 paper link</description>
@@ -79,10 +101,10 @@ paper link</description>
     
     <item>
       <title>Causal Navigation by Continuous-time Neural Networks</title>
-      <link>https://mnaderibeni.github.io/talks/2023_03_02-talk-3/</link>
+      <link>http://localhost:1313/talks/2023_03_02-talk-3/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2023_03_02-talk-3/</guid>
+      <guid>http://localhost:1313/talks/2023_03_02-talk-3/</guid>
       
         <description>Presentation file
 paper link</description>
@@ -91,10 +113,10 @@ paper link</description>
     
     <item>
       <title>Neural Operators: Mapping between Function Spaces</title>
-      <link>https://mnaderibeni.github.io/talks/2022-09-07-talk-2/</link>
+      <link>http://localhost:1313/talks/2022-09-07-talk-2/</link>
       <pubDate>Wed, 07 Sep 2022 21:47:41 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2022-09-07-talk-2/</guid>
+      <guid>http://localhost:1313/talks/2022-09-07-talk-2/</guid>
       
         <description>Presentation file
 paper link</description>
@@ -103,10 +125,10 @@ paper link</description>
     
     <item>
       <title>Discovering governing equations from data by sparse identification of nonlinear dynamical systems</title>
-      <link>https://mnaderibeni.github.io/talks/2022-05-09-talk-1/</link>
+      <link>http://localhost:1313/talks/2022-05-09-talk-1/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2022-05-09-talk-1/</guid>
+      <guid>http://localhost:1313/talks/2022-05-09-talk-1/</guid>
       
         <description>Presentation file
 paper link</description>

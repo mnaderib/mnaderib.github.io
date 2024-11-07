@@ -2,17 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mahdi Naderi</title>
-    <link>https://mnaderibeni.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Mahdi Naderi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mnaderibeni.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Silence</title>
+      <link>http://localhost:1313/post/2024-11-06/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/2024-11-06/</guid>
+      
+        <description>&amp;hellip;
+A curious boy asks an old soldier
+“How did you lose your leg?</description>
+      
+    </item>
+    
+    <item>
+      <title>For the Children of Palestine II</title>
+      <link>http://localhost:1313/post/2024-10-04-blog/</link>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/2024-10-04-blog/</guid>
+      
+        <description> </description>
+      
+    </item>
+    
+    <item>
+      <title>Diffusion Models and Dynamics</title>
+      <link>http://localhost:1313/talks/2024_09_26-talk-10/</link>
+      <pubDate>Thu, 26 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024_09_26-talk-10/</guid>
+      
+        <description> Presentation file ---</description>
+      
+    </item>
+    
+    <item>
+      <title>Implicit Neural Representations</title>
+      <link>http://localhost:1313/talks/2024-05-14/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2024-05-14/</guid>
+      
+        <description> Presentation file ---</description>
+      
+    </item>
+    
+    <item>
+      <title>The Moving Finger Writes</title>
+      <link>http://localhost:1313/post/2024-04-18/</link>
+      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/2024-04-18/</guid>
+      
+        <description>The moving finger writes; and, having writ,
+Moves on: Nor all your piety nor wit</description>
+      
+    </item>
+    
     <item>
       <title>Neural Tangent Kernel</title>
-      <link>https://mnaderibeni.github.io/talks/2024_04_02-talk-9/</link>
+      <link>http://localhost:1313/talks/2024_04_02-talk-9/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2024_04_02-talk-9/</guid>
+      <guid>http://localhost:1313/talks/2024_04_02-talk-9/</guid>
       
         <description>Presentation file paper link</description>
       
@@ -20,10 +78,10 @@
     
     <item>
       <title>Contact</title>
-      <link>https://mnaderibeni.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       
         <description>Contact Page</description>
       
@@ -31,21 +89,32 @@
     
     <item>
       <title>The boundary of neural network trainability is fractal.</title>
-      <link>https://mnaderibeni.github.io/talks/2024_02_15-talk-8/</link>
+      <link>http://localhost:1313/talks/2024_02_15-talk-8/</link>
       <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2024_02_15-talk-8/</guid>
+      <guid>http://localhost:1313/talks/2024_02_15-talk-8/</guid>
       
         <description>Presentation file paper link</description>
       
     </item>
     
     <item>
+      <title>Learning solutions of parametric Navier-Stokes with physics-informed neural networks</title>
+      <link>http://localhost:1313/post/2024-02-05/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/post/2024-02-05/</guid>
+      
+        <description>A draft of our research on accelerated solution of Navier-Stokes equations is now on arXiv: Learning solutions of parametric Navier-Stokes with physics-informed neural networks</description>
+      
+    </item>
+    
+    <item>
       <title>From data to functa: Your data point is a function and you can treat it like one</title>
-      <link>https://mnaderibeni.github.io/talks/2023_11_30-talk-7/</link>
+      <link>http://localhost:1313/talks/2023_11_30-talk-7/</link>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2023_11_30-talk-7/</guid>
+      <guid>http://localhost:1313/talks/2023_11_30-talk-7/</guid>
       
         <description>Presentation file
 paper link</description>
@@ -54,10 +123,10 @@ paper link</description>
     
     <item>
       <title>Machine Learning and differential equations?</title>
-      <link>https://mnaderibeni.github.io/post/2023-11-03-blog/</link>
+      <link>http://localhost:1313/post/2023-11-03-blog/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/post/2023-11-03-blog/</guid>
+      <guid>http://localhost:1313/post/2023-11-03-blog/</guid>
       
         <description>Once in a while I hear the question: &amp;ldquo;how machine learning can have any connection with differential equations?</description>
       
@@ -65,10 +134,10 @@ paper link</description>
     
     <item>
       <title>Integral Neural Networks</title>
-      <link>https://mnaderibeni.github.io/talks/2023_10_24-talk-6/</link>
+      <link>http://localhost:1313/talks/2023_10_24-talk-6/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2023_10_24-talk-6/</guid>
+      <guid>http://localhost:1313/talks/2023_10_24-talk-6/</guid>
       
         <description>Presentation file
 paper link</description>
@@ -77,10 +146,10 @@ paper link</description>
     
     <item>
       <title>For Children of Palestine</title>
-      <link>https://mnaderibeni.github.io/post/2023-10-19-blog/</link>
+      <link>http://localhost:1313/post/2023-10-19-blog/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/post/2023-10-19-blog/</guid>
+      <guid>http://localhost:1313/post/2023-10-19-blog/</guid>
       
         <description>Human beings are members of a whole,
 In creation of one essence and soul.</description>
@@ -89,10 +158,10 @@ In creation of one essence and soul.</description>
     
     <item>
       <title>Score-Based Generative Modeling through Stochastic Differential Equations</title>
-      <link>https://mnaderibeni.github.io/talks/2023_06_28-talk-5/</link>
+      <link>http://localhost:1313/talks/2023_06_28-talk-5/</link>
       <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2023_06_28-talk-5/</guid>
+      <guid>http://localhost:1313/talks/2023_06_28-talk-5/</guid>
       
         <description>Presentation file
 paper link</description>
@@ -101,10 +170,10 @@ paper link</description>
     
     <item>
       <title>Condensing CNNs with Partial Differential Equations</title>
-      <link>https://mnaderibeni.github.io/talks/2023_05_09-talk-4/</link>
+      <link>http://localhost:1313/talks/2023_05_09-talk-4/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2023_05_09-talk-4/</guid>
+      <guid>http://localhost:1313/talks/2023_05_09-talk-4/</guid>
       
         <description>Presentation file
 paper link</description>
@@ -113,10 +182,10 @@ paper link</description>
     
     <item>
       <title>In search for algorithms that are fast with math!</title>
-      <link>https://mnaderibeni.github.io/post/2023-04-20-blog/</link>
+      <link>http://localhost:1313/post/2023-04-20-blog/</link>
       <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/post/2023-04-20-blog/</guid>
+      <guid>http://localhost:1313/post/2023-04-20-blog/</guid>
       
         <description>Recently, I gave a presentation at AI4b.io symposium on accelerating Computational Fluid Dynamics with Machine Learning.</description>
       
@@ -124,10 +193,10 @@ paper link</description>
     
     <item>
       <title>Persian New Year</title>
-      <link>https://mnaderibeni.github.io/post/2023-03-21-blog/</link>
+      <link>http://localhost:1313/post/2023-03-21-blog/</link>
       <pubDate>Tue, 21 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/post/2023-03-21-blog/</guid>
+      <guid>http://localhost:1313/post/2023-03-21-blog/</guid>
       
         <description>Happy Nowruz, the starting day of Spring and the Persian new year.</description>
       
@@ -135,10 +204,10 @@ paper link</description>
     
     <item>
       <title>Causal Navigation by Continuous-time Neural Networks</title>
-      <link>https://mnaderibeni.github.io/talks/2023_03_02-talk-3/</link>
+      <link>http://localhost:1313/talks/2023_03_02-talk-3/</link>
       <pubDate>Thu, 02 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2023_03_02-talk-3/</guid>
+      <guid>http://localhost:1313/talks/2023_03_02-talk-3/</guid>
       
         <description>Presentation file
 paper link</description>
@@ -147,10 +216,10 @@ paper link</description>
     
     <item>
       <title>Neural Operators: Mapping between Function Spaces</title>
-      <link>https://mnaderibeni.github.io/talks/2022-09-07-talk-2/</link>
+      <link>http://localhost:1313/talks/2022-09-07-talk-2/</link>
       <pubDate>Wed, 07 Sep 2022 21:47:41 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2022-09-07-talk-2/</guid>
+      <guid>http://localhost:1313/talks/2022-09-07-talk-2/</guid>
       
         <description>Presentation file
 paper link</description>
@@ -159,10 +228,10 @@ paper link</description>
     
     <item>
       <title>Discovering governing equations from data by sparse identification of nonlinear dynamical systems</title>
-      <link>https://mnaderibeni.github.io/talks/2022-05-09-talk-1/</link>
+      <link>http://localhost:1313/talks/2022-05-09-talk-1/</link>
       <pubDate>Sun, 29 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/talks/2022-05-09-talk-1/</guid>
+      <guid>http://localhost:1313/talks/2022-05-09-talk-1/</guid>
       
         <description>Presentation file
 paper link</description>
@@ -171,10 +240,10 @@ paper link</description>
     
     <item>
       <title>Awards</title>
-      <link>https://mnaderibeni.github.io/awards/</link>
+      <link>http://localhost:1313/awards/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/awards/</guid>
+      <guid>http://localhost:1313/awards/</guid>
       
         <description>Awards</description>
       
@@ -182,10 +251,10 @@ paper link</description>
     
     <item>
       <title>Certifications</title>
-      <link>https://mnaderibeni.github.io/certifications/</link>
+      <link>http://localhost:1313/certifications/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/certifications/</guid>
+      <guid>http://localhost:1313/certifications/</guid>
       
         <description>Hugo Certifications</description>
       
@@ -193,10 +262,10 @@ paper link</description>
     
     <item>
       <title>the death of flames</title>
-      <link>https://mnaderibeni.github.io/post/2020-01-03/</link>
+      <link>http://localhost:1313/post/2020-01-03/</link>
       <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/post/2020-01-03/</guid>
+      <guid>http://localhost:1313/post/2020-01-03/</guid>
       
         <description>Amongst the various kinds of deaths,
 The most bitter is the death of leaves,</description>
@@ -205,10 +274,10 @@ The most bitter is the death of leaves,</description>
     
     <item>
       <title></title>
-      <link>https://mnaderibeni.github.io/archives/</link>
+      <link>http://localhost:1313/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/archives/</guid>
+      <guid>http://localhost:1313/archives/</guid>
       
         <description></description>
       
@@ -216,21 +285,21 @@ The most bitter is the death of leaves,</description>
     
     <item>
       <title>Hello World!</title>
-      <link>https://mnaderibeni.github.io/post/2018-05-10-blog/</link>
+      <link>http://localhost:1313/post/2018-05-10-blog/</link>
       <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/post/2018-05-10-blog/</guid>
+      <guid>http://localhost:1313/post/2018-05-10-blog/</guid>
       
-        <description>I would like to start writing here with a poems by Ferdowsi.</description>
+        <description>I would like to start writing here with a poem by Ferdowsi.</description>
       
     </item>
     
     <item>
       <title></title>
-      <link>https://mnaderibeni.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       
         <description>About: PhD candidate in the Pattern Recognition Lab at TUDelft. Interested in scientific machine learning, dynamical systems, and numerical analysis.</description>
       
@@ -238,10 +307,10 @@ The most bitter is the death of leaves,</description>
     
     <item>
       <title></title>
-      <link>https://mnaderibeni.github.io/imprint/</link>
+      <link>http://localhost:1313/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mnaderibeni.github.io/imprint/</guid>
+      <guid>http://localhost:1313/imprint/</guid>
       
         <description>Legal Disclosure Information in accordance with the applicable law
 Jane Doe</description>
