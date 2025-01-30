@@ -7,7 +7,7 @@ profilePicture = "images/mahdinaderi.jpeg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
-customCss = []
+customCss = ["css/custom.css"]
 # example ["js/custom.js"]
 customJs = [] 
 mainSections = ["post"]
@@ -64,7 +64,7 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/mnaderibeni/"
+url = "https://github.com/mnaderib/"
 
 [[socialIcons]]
 icon = "fab fa-twitter"

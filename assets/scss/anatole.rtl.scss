@@ -1,4 +1,4 @@
-$content-ratio: {{ .Site.Params.contentratio | default 0.7 }};
+$content-ratio: {{ .Site.Params.contentratio | default 0.75 }};
 $text-direction: "rtl";
 
 @import 'main.scss';

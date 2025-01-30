@@ -1,0 +1,8 @@
+/* custom.css */
+
+body {
+    transform: scale(0.8);  /* Zoom in by 10% */
+    transform-origin: top; /* Adjust the zoom origin */
+}
+
+
