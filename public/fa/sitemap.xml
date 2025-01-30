@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/fa/</loc>
-    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,10 +16,10 @@
                 />
   </url><url>
     <loc>http://localhost:1313/fa/tags/index/</loc>
-    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fa/post/</loc>
-    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -31,8 +31,21 @@
                 href="http://localhost:1313/fa/post/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fa/series/</loc>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="http://localhost:1313/fa/series/"
+                />
+  </url><url>
     <loc>http://localhost:1313/fa/tags/</loc>
-    <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -42,6 +55,22 @@
                 rel="alternate"
                 hreflang="fa"
                 href="http://localhost:1313/fa/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fa/series/%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA/</loc>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fa/post/2024-11-06/</loc>
+    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/post/2024-11-06/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="http://localhost:1313/fa/post/2024-11-06/"
                 />
   </url><url>
     <loc>http://localhost:1313/fa/post/2024-10-04-blog/</loc>
@@ -57,19 +86,6 @@
                 href="http://localhost:1313/fa/post/2024-10-04-blog/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fa/series/</loc>
-    <lastmod>2024-06-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="http://localhost:1313/fa/series/"
-                />
-  </url><url>
     <loc>http://localhost:1313/fa/post/2024-06-18/</loc>
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -77,9 +93,6 @@
     <lastmod>2024-06-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fa/post/2024-05-20/</loc>
-    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/fa/series/%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fa/post/2024-04-18/</loc>

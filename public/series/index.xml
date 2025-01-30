@@ -6,7 +6,18 @@
     <description>Recent content in Series on Mahdi Naderi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Literature</title>
+      <link>http://localhost:1313/series/literature/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/series/literature/</guid>
+      
+        <description></description>
+      
+    </item>
+    
     <item>
       <title>Research Papers</title>
       <link>http://localhost:1313/series/research-papers/</link>
@@ -24,17 +35,6 @@
       <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/series/lectures/</guid>
-      
-        <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Literature</title>
-      <link>http://localhost:1313/series/literature/</link>
-      <pubDate>Thu, 18 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/series/literature/</guid>
       
         <description></description>
       
