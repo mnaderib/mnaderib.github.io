@@ -1,8 +1,17 @@
 /* custom.css */
 
+/* Default scale */
 body {
-    transform: scale(0.8);  /* Zoom in by 10% */
-    transform-origin: top; /* Adjust the zoom origin */
+    transform: scale(0.85);
+    /* Zoom in by 10% */
+    transform-origin: top;
+    /* Adjust the zoom origin */
 }
 
-
+/* Mobile scale */
+@media (max-width: 768px) {
+    body {
+        transform: scale(1);
+        /* Adjust this value as needed for mobile */
+    }
+}
