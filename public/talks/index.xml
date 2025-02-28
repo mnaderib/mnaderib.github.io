@@ -6,7 +6,18 @@
     <description>Recent content in Talks on Mahdi Naderi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Physics-Informed Machine-Learning &amp; Computer-Vision</title>
+      <link>http://localhost:1313/talks/2025-02-26-talk-11/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/talks/2025-02-26-talk-11/</guid>
+      
+        <description> Presentation file ---</description>
+      
+    </item>
+    
     <item>
       <title>Diffusion Models and Dynamics</title>
       <link>http://localhost:1313/talks/2024_09_26-talk-10/</link>
