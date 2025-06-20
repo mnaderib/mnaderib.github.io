@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/fa/</loc>
-    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,10 +16,10 @@
                 />
   </url><url>
     <loc>http://localhost:1313/fa/tags/index/</loc>
-    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fa/post/</loc>
-    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -30,6 +30,25 @@
                 hreflang="fa"
                 href="http://localhost:1313/fa/post/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/fa/tags/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="http://localhost:1313/fa/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fa/tags/%D8%AD%DA%A9%D8%A7%DB%8C%D8%AA-%D9%87%D8%A7/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/fa/post/2025-06-15/</loc>
+    <lastmod>2025-06-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fa/series/</loc>
     <lastmod>2024-11-06T00:00:00+00:00</lastmod>
@@ -42,19 +61,6 @@
                 rel="alternate"
                 hreflang="fa"
                 href="http://localhost:1313/fa/series/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fa/tags/</loc>
-    <lastmod>2024-11-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="http://localhost:1313/fa/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/fa/series/%D8%A7%D8%AF%D8%A8%DB%8C%D8%A7%D8%AA/</loc>
@@ -161,9 +167,6 @@
                 hreflang="fa"
                 href="http://localhost:1313/fa/archives/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/fa/tags/%D8%AD%DA%A9%D8%A7%DB%8C%D8%AA-%D9%87%D8%A7/</loc>
-    <lastmod>2018-08-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/fa/post/2018-08-14-blog/</loc>
     <lastmod>2018-08-14T00:00:00+00:00</lastmod>
