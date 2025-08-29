@@ -46,3 +46,22 @@ localizedDates = true
 [[related.indices]]
   name = 'tags'
   weight = 80
+
+
+
+[languages]
+
+[languages.en]
+Title = "Mahdi Naderi"
+description = "PhD candidate at the Pattern Recognition Lab; \n TU Delft; Interested in Scientific Machine Learning"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+[languages.fa]
+Title = "مهدی نادری"
+description = "دانشجوی دوره دکتری (یادگیری ماشین) \n گروه شناخت الگو و بیوانفورماتیک، دانشگاه صنعتی دلفت"
+contentDir = "content/farsi" 
+weight = 2
+LanguageDirection = "rtl" 
+LanguageName = "فارسی"

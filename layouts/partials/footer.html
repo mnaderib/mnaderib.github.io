@@ -1,7 +1,7 @@
 <footer class="footer footer__{{ .footerClassModifier }}">
-  <p><a href="/fa"><span style="color:#3498db">نسخه فارسی&nbsp;</span></a></p>
-
-
+  {{ if eq .Site.Language.Lang "en" }}
+  <p><a href="/fa"><span style="color:#3498db">نسخه فارسی &nbsp;</span></a></p>
+  {{ end }}
   <ul class="footer__list">
     <li class="footer__item">
       &copy;
